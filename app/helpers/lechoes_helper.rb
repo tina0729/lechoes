@@ -1,0 +1,2 @@
+module LechoesHelper
+end
